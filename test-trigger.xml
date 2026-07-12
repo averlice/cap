@@ -23,7 +23,6 @@
       <areaDesc>Fremont County, CO</areaDesc>
       <geocode>
         <valueName>SAME</valueName>
-        <!-- Fremont County FIPS/SAME Code -->
         <value>008043</value> 
       </geocode>
     </area>
@@ -31,8 +30,7 @@
     <resource>
       <resourceDesc>EAS Audio Payload</resourceDesc>
       <mimeType>audio/x-wav</mimeType>
-      <!-- Ensure this matches the absolute path where eastest.wav is hosted -->
-      <uri>https://<your-username>.github.io/<your-repo>/audio/eastest.wav</uri>
+      <uri>https://averlice.github.io/cap/audio/eastest.wav</uri>
     </resource>
     
   </info>
