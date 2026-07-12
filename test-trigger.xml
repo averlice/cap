@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
-  <identifier>BLNDSOFT-RWT-2026-003</identifier>
+  <identifier>BLNDSOFT-RWT-2026-004</identifier>
   <sender>systems@blindsoft.net</sender>
-  <sent>2026-07-11T19:45:00-06:00</sent>
+  <sent>2026-07-11T19:55:00-06:00</sent>
   <status>Test</status>
   <msgType>Alert</msgType>
   <scope>Public</scope>
